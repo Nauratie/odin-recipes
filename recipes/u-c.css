@@ -1,0 +1,21 @@
+/* styles.css */
+
+body {
+  font family: Arial, sans-serif;
+}
+
+h1 {
+  background: rgb(255,255,0);
+}
+
+h2 {
+  background-color: rgb (255,0,255);
+}
+
+h3 {
+  background-color: rgb (0,120,0);
+}
+
+button {
+  color: red
+}
