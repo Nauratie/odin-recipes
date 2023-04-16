@@ -1,0 +1,11 @@
+/* styles.css */
+
+body {
+  background-color: rgb(0,0,140);
+  font-family: Times New Roman, Verdana, san-serif;
+}
+
+.heading {
+  background-color: rgb(255,125,0);
+  font-family: Calibri, Arial, sans-serif;
+}
